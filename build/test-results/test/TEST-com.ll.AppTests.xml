@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ll.AppTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-06T05:48:05" hostname="jeongsanghwaui-MacBookPro.local" time="0.021">
+<testsuite name="com.ll.AppTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-06T06:26:51" hostname="jeongsanghwaui-MacBookPro.local" time="0.017">
   <properties/>
-  <testcase name="스캐너에 키보드가 아닌 문자열을 입력으로 설정" classname="com.ll.AppTests" time="0.02"/>
-  <testcase name="출력을 모니터에 하지 않고 문자열로 얻기" classname="com.ll.AppTests" time="0.001"/>
+  <testcase name="등록을_하면_명언과_작가를_물어본다()" classname="com.ll.AppTests" time="0.01"/>
+  <testcase name="프로그램_시작시_타이틀_출력_그리고_종료()" classname="com.ll.AppTests" time="0.001"/>
+  <testcase name="등록_후_목록에서_확인할_수_있어야_한다()" classname="com.ll.AppTests" time="0.001"/>
+  <testcase name="문자열을_파일에_저장()" classname="com.ll.AppTests" time="0.002"/>
+  <testcase name="등록을_하면_생성된_명언의_번호가_출력되어야_한다()" classname="com.ll.AppTests" time="0.001"/>
+  <testcase name="테스트()" classname="com.ll.AppTests" time="0.0"/>
+  <testcase name="스캐너에_키보드가_아닌_문자열을_입력으로_설정()" classname="com.ll.AppTests" time="0.0"/>
+  <testcase name="출력을_모니터에_하지_않고_문자열로_얻기()" classname="com.ll.AppTests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
